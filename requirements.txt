@@ -1,1 +1,3 @@
 matplotlib
+sparse 
+Quantum_Tunnelling
